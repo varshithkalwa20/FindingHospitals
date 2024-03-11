@@ -1,0 +1,55 @@
+16:15:00.412 [main] INFO  Test_Cases.Finding_Hospitals -  Entering incorrect detials to validate demo button 
+16:15:00.631 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
+16:15:00.725 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with incorrect details 
+16:15:01.203 [main] INFO  Test_Cases.Finding_Hospitals -  clearing the previous data 
+16:15:02.198 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with correct details 
+16:15:14.889 [main] INFO  Test_Cases.Finding_Hospitals -  Verifying Thank you message 
+16:20:03.324 [main] INFO  Test_Cases.Finding_Hospitals - --------Started--------
+16:20:05.576 [main] INFO  Test_Cases.Finding_Hospitals -  Clicking Find Doctors button 
+16:20:06.747 [main] INFO  Test_Cases.Finding_Hospitals -  Searching City 
+16:20:09.338 [main] INFO  Test_Cases.Finding_Hospitals -  Searching dentists 
+16:20:09.541 [main] INFO  Test_Cases.Finding_Hospitals - --------Appling Fiters--------
+16:20:11.933 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting 30+ Patient Stories 
+16:20:14.704 [main] INFO  Test_Cases.Finding_Hospitals -  Selectong 10+ years experience 
+16:20:17.962 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting fee above 500 
+16:20:20.750 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting Doctors those who available tomorrow 
+16:20:21.464 [main] INFO  Test_Cases.Finding_Hospitals - --------Sorting--------
+16:20:28.373 [main] INFO  Test_Cases.Finding_Hospitals -  Sorting High to low 
+16:20:30.594 [main] ERROR Test_Cases.Finding_Hospitals - Test Failed
+16:21:38.199 [main] INFO  Test_Cases.Finding_Hospitals - --------Started--------
+16:21:40.450 [main] INFO  Test_Cases.Finding_Hospitals -  Clicking Find Doctors button 
+16:21:41.583 [main] INFO  Test_Cases.Finding_Hospitals -  Searching City 
+16:21:44.347 [main] INFO  Test_Cases.Finding_Hospitals -  Searching dentists 
+16:21:44.535 [main] INFO  Test_Cases.Finding_Hospitals - --------Appling Fiters--------
+16:21:46.903 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting 30+ Patient Stories 
+16:21:49.637 [main] INFO  Test_Cases.Finding_Hospitals -  Selectong 10+ years experience 
+16:21:52.462 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting fee above 500 
+16:21:55.203 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting Doctors those who available tomorrow 
+16:21:56.213 [main] INFO  Test_Cases.Finding_Hospitals - --------Sorting--------
+16:22:01.128 [main] INFO  Test_Cases.Finding_Hospitals -  Sorting High to low 
+16:22:24.698 [main] INFO  Test_Cases.Finding_Hospitals -  Getting top 5 Doctor details 
+16:22:24.845 [main] INFO  Test_Cases.Finding_Hospitals - -------- Navigating To Surgeries Page --------
+16:22:25.826 [main] INFO  Test_Cases.Finding_Hospitals -  Clicked on Surgeries button 
+16:22:26.142 [main] INFO  Test_Cases.Finding_Hospitals -  Scrolling down to list of surgeries 
+16:22:27.670 [main] INFO  Test_Cases.Finding_Hospitals -  Getting list of surgeries into a list 
+16:22:27.894 [main] INFO  Test_Cases.Finding_Hospitals -  Scrolling back to top of the page 
+16:22:28.148 [main] INFO  Test_Cases.Finding_Hospitals - -------- Navigating To Health and wellness Page --------
+16:22:32.655 [main] INFO  Test_Cases.Finding_Hospitals -  Navigated to Health and wellness Page 
+16:22:32.893 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
+16:22:33.002 [main] INFO  Test_Cases.Finding_Hospitals -  Scrolling down to Schedule demo button 
+16:22:33.263 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
+16:22:34.028 [main] INFO  Test_Cases.Finding_Hospitals -  Entering incorrect detials to validate demo button 
+16:22:34.266 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
+16:22:34.426 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with incorrect details 
+16:22:34.955 [main] INFO  Test_Cases.Finding_Hospitals -  clearing the previous data 
+16:22:35.809 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with correct details 
+16:22:45.141 [main] INFO  Test_Cases.Finding_Hospitals -  Verifying Thank you message 
+01:13:00.382 [main] INFO  Test_Cases.Finding_Hospitals - --------Started--------
+01:13:02.452 [main] INFO  Test_Cases.Finding_Hospitals -  Clicking Find Doctors button 
+01:13:03.693 [main] INFO  Test_Cases.Finding_Hospitals -  Searching City 
+01:13:06.084 [main] INFO  Test_Cases.Finding_Hospitals -  Searching dentists 
+01:13:06.289 [main] INFO  Test_Cases.Finding_Hospitals - --------Appling Fiters--------
+01:13:08.691 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting 30+ Patient Stories 
+01:13:11.714 [main] INFO  Test_Cases.Finding_Hospitals -  Selectong 10+ years experience 
+01:13:14.753 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting fee above 500 
+01:13:17.483 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting Doctors those who available tomorrow 
